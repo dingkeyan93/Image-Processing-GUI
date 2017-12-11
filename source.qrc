@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>printImage.png</file>
+        <file>undo.png</file>
+        <file>ok.png</file>
+        <file>save.png</file>
+        <file>repeal.png</file>
+        <file>open.png</file>
+        <file>video_camera.png</file>
+        <file>exit.png</file>
+        <file>Zoom_in.png</file>
+        <file>Zoom_out_.png</file>
+        <file>myico.png</file>
+        <file>info.png</file>
+        <file>tag.png</file>
+        <file>time.png</file>
+        <file>axis.png</file>
+        <file>ROI.png</file>
+        <file>seed.png</file>
+        <file>paint.png</file>
+        <file>start.png</file>
+    </qresource>
+</RCC>
