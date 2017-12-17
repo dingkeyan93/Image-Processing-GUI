@@ -57,3 +57,4 @@ Image segmentation mainly includes the following five types of segmentation:
 
 ⑤ Level Set segmentation
 
+![Demo](1.JPG) 
